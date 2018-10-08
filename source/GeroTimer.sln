@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeroTimer", "GeroTimer\GeroTimer.csproj", "{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeroTimer.MainPage", "GeroTimer.MainPage\GeroTimer.MainPage.csproj", "{42E204E6-1058-424D-9423-D3C3DE9B2F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|Any CPU.Build.0 = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|Any CPU.Deploy.0 = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|ARM.ActiveCfg = Debug|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|ARM.Build.0 = Debug|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|ARM.Deploy.0 = Debug|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x64.ActiveCfg = Debug|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x64.Build.0 = Debug|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x64.Deploy.0 = Debug|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x86.ActiveCfg = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x86.Build.0 = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Debug|x86.Deploy.0 = Debug|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|Any CPU.ActiveCfg = Release|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|ARM.ActiveCfg = Release|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|ARM.Build.0 = Release|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|ARM.Deploy.0 = Release|ARM
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x64.ActiveCfg = Release|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x64.Build.0 = Release|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x64.Deploy.0 = Release|x64
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x86.ActiveCfg = Release|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x86.Build.0 = Release|x86
+		{AD90239B-BE99-40DF-A0D6-ADBD9F4A9C14}.Release|x86.Deploy.0 = Release|x86
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|ARM.Build.0 = Debug|ARM
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|x64.ActiveCfg = Debug|x64
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|x64.Build.0 = Debug|x64
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|x86.ActiveCfg = Debug|x86
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Debug|x86.Build.0 = Debug|x86
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|ARM.ActiveCfg = Release|ARM
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|ARM.Build.0 = Release|ARM
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|x64.ActiveCfg = Release|x64
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|x64.Build.0 = Release|x64
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|x86.ActiveCfg = Release|x86
+		{42E204E6-1058-424D-9423-D3C3DE9B2F6C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A30C97F-7C30-4FEF-B0CF-34F419C5FCED}
+	EndGlobalSection
+EndGlobal
