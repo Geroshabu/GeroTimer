@@ -1,0 +1,10 @@
+@startuml
+actor User
+
+rectangle GeroTimer {
+  left to right direction
+  User --> (Add a sequence item)
+  User --> (Edit a sequence item)
+  User --> (Delete a sequence item)
+}
+@enduml

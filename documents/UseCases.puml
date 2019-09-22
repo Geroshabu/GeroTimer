@@ -1,0 +1,11 @@
+@startuml
+actor User
+
+rectangle GeroTimer {
+  left to right direction
+  User --> (Create a new project)
+  User --> (Save a project)
+  User --> (Edit alarm sequence)
+  User --> (Execute alarm sequence)
+}
+@enduml
