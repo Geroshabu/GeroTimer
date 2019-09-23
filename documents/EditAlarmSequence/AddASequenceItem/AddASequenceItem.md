@@ -4,7 +4,7 @@
 
 ### Summary
 
-
+Insert an item to specific position of the alarm sequence.
 
 ### Actors
 
@@ -12,25 +12,15 @@
 
 ### Primary Flow
 
-1. User clicks "New Project" button on the main window.
-2. If the current project exists, the system checks if there are some changes which haven't save yet.
-3. The system creates a new project as the current project.
-4. The system refresh the screen.
+1. User clicks "New Item" button on the main window.
+2. The system shows the "Edit Item" window.
+3. User inputs parameters of the item, and clicks the "OK" button.
+4. The system creates a new item and inserts to the alarm sequence.
+5. The system closes the "Edit Item" window.
 
 ### Alternative Flows
 
-#### 2-A : If there are unsaved changes
-
-1. The system shows the dialog asking whether to save, discard, or cancel.
-2. User selects a choice.
-  * User selects save
-    1. Execute the use case "Save a project".
-    2. If the use case "Save a project" was aborted, abort this use case.
-  * User selects discard
-    1. Nothing  to do.
-  * User selects cancel
-    1. Abort this use case.
-3. Back to step 3 of primary flow.
+There are no flows.
 
 ### Pre-condition
 
@@ -38,4 +28,6 @@
 
 ### Post-condition
 
-* The main window is displaying according to the new project
+* The main window is displaying
+* If an item had selected on the sequence before step 1, the new item is inserted to previous of it.
+* If no item had selected before step 1, the new item is added to last of the sequence.
