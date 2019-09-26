@@ -25,4 +25,4 @@ There are no flows.
 
 ### Post-condition
 
-* The main window is displaying according to the edited item
+* The selected item is not shown in the main window
