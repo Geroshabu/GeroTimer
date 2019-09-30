@@ -22,6 +22,7 @@ There are no flows.
 ### Pre-condition
 
 * The main window is displaying
+* The system mode is "Idle"
 
 ### Post-condition
 
