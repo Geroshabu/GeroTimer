@@ -72,7 +72,7 @@ The UI specification of this area is depend on the sequence item type.
 
 This area is always visible whenever that the sequence item which contains this area exists.
 
-### Add New.Item Button
+### Add New Item Button
 
 The add new item button is placed at the bottom of the list of sequence items.
 This button scrolls with the list of sequence items.
