@@ -35,7 +35,6 @@ Create a initial project, and allow the user to edit the project.
 ### Pre-condition
 
 * The main window is displaying
-* The system mode is "Idle"
 
 ### Post-condition
 

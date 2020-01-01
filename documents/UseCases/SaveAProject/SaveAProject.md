@@ -34,7 +34,6 @@ Save changes of the current project to the storage.
 ### Pre-condition
 
 * The current project exists.
-* The system mode is "Idle"
 
 ### Post-condition
 
