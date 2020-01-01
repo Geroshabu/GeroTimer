@@ -20,7 +20,10 @@ Insert an item to specific position of the alarm sequence.
 
 ### Alternative Flows
 
-There are no flows.
+#### 3-A : If user clicks "Back" button
+
+1. The system closes the "Edit Item" window.
+2. Abort this use case.
 
 ### Pre-condition
 
