@@ -12,7 +12,7 @@ Insert an item to specific position of the alarm sequence.
 
 ### Primary Flow
 
-1. User clicks "New Item" button on the main window.
+1. User clicks "Add New Item" button on the main window.
 2. The system shows the "Edit Item" window whose forms are filled by initial values.
 3. User inputs parameters of the item, and clicks the "OK" button.
 4. The system creates a new item and inserts to the alarm sequence.
